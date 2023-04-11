@@ -1,0 +1,20 @@
+{
+  "name": "introapis",
+  "version": "0.0.1",
+  "description": "consumiruna api externa",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "api",
+    "atenea",
+    "back",
+    "end"
+  ],
+  "author": "denian merchan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
